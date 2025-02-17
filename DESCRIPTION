@@ -34,7 +34,8 @@ Authors@R: c(
     )
 Description: A comprehensive educational package combining clustering algorithms with 
     detailed step-by-step explanations. Provides implementations of both traditional 
-    (hierarchical, k-means) and modern (DBSCAN, GMM, genetic k-means) clustering methods 
+    (hierarchical, k-means) and modern (Density-Based Spatial Clustering of Applications with Noise (DBSCAN), 
+    Gaussian Mixture Models (GMM), genetic k-means) clustering methods 
     as described in Ezugwu et. al., (2022) <doi:10.1016/j.engappai.2022.104743>. 
     Includes educational datasets highlighting different clustering challenges, based on 
     'scikit-learn' examples (Pedregosa et al., 2011) 
